@@ -1,7 +1,7 @@
 # Pengalaman Belajar
 Pengalaman Belajar di Dicoding
 
-7 Agustus 2022  
+**7 Agustus 2022**  
 
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
 
@@ -9,7 +9,7 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
 
 * Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
 
-15 Juni 2021  
+**8 Agustus 2022**  
 
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
 
